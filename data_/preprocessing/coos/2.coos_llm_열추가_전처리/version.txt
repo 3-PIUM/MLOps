@@ -1,0 +1,10 @@
+✅ 가장 추천하는 템플릿
+🎯 Runpod Pytorch 2.8.0
+runpod/pytorch:2.8.0-py3.11-cuda12.8.1-cudnn-devel-ubuntu22.04
+
+이유:
+Python 3.11 + PyTorch 2.8 + CUDA 12.8 → 최신 라이브러리 호환성 확보
+
+Transformers 4.40+ 이상 버전도 문제 없이 작동
+
+Docker 내에서 자유롭게 pip install 가능
